@@ -7,7 +7,7 @@
   "license": "MIT",
   "main": "src",
   "dependencies": {
-    "antlr4": "^4.7.2",
+    "antlr4": "~4.8.0",
     "is-alphanumerical": "^1.0.2",
     "lodash": "^4.17.11",
     "prettier": "^1.15.3"
