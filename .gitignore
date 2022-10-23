@@ -3,6 +3,6 @@ yarn-error.log
 .antlr
 bin
 
-src/csharp/*.interp
-src/csharp/*.tokens
-src/csharp/*.js
+# src/csharp/*.interp
+# src/csharp/*.tokens
+# src/csharp/*.js
